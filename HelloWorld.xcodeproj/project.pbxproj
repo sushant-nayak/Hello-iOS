@@ -14,6 +14,7 @@
 		EB9B23321A54E03200ECE30D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB9B23311A54E03200ECE30D /* Images.xcassets */; };
 		EB9B23351A54E03200ECE30D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EB9B23331A54E03200ECE30D /* LaunchScreen.xib */; };
 		EB9B23411A54E03200ECE30D /* HelloWorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB9B23401A54E03200ECE30D /* HelloWorldTests.m */; };
+		EB9B234A1A54E15400ECE30D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB9B23261A54E03200ECE30D /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -229,6 +230,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB9B234A1A54E15400ECE30D /* main.m in Sources */,
 				EB9B23411A54E03200ECE30D /* HelloWorldTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
